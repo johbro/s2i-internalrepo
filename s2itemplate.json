@@ -88,7 +88,7 @@
             "from": {
               "kind": "ImageStreamTag",
               "namespace": "${NAMESPACE}",
-              "name": "rhel8/nginx:${NGINX_VERSION}"
+              "name": "nginx:${NGINX_VERSION}"
             }
           }
         },
