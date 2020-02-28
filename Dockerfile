@@ -1,4 +1,4 @@
-FROM centos/nginx-112-centos7
+FROM image-registry.openshift-image-registry.svc:5000/openshift/nginx-116
 
 MAINTAINER "John Browning" "johnb@redhat.com"
 
